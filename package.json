@@ -41,7 +41,7 @@
     "express": "^4.16.2",
     "jshint": "*",
     "mocha": "*",
-    "passport": "0.4.x",
+    "passport": "0.6.x",
     "request": "^2.83.0",
     "should": "*",
     "sinon": "^2.1.0"
